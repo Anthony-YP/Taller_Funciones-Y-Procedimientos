@@ -7,25 +7,25 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-   - `ejercicios/suma_digitos.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio1.c
 2. **Inverso de un número**
-   - `ejercicios/inverso_numero.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio2.c
 3. **Potencia mediante sumas sucesivas**
-   - `ejercicios/potencia_sumas.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio3.c
 4. **Radicación mediante restas sucesivas**
-   - `ejercicios/radicacion_restas.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio4.c
 5. **Serie de Fibonacci**
-   - `ejercicios/serie_fibonacci.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio5.c
 6. **Factorial de un número**
-   - `ejercicios/factorial.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio6.c
 7. **Suma de una serie aritmética**
-   - `ejercicios/suma_aritmetica.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio7.c
 8. **Producto de una serie geométrica**
-   - `ejercicios/producto_geometrica.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio8.c
 9. **Número de dígitos de un número**
-   - `ejercicios/numero_digitos.c`
+   - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio9.c
 10. **Verificar si un número es primo**
-    - `ejercicios/verificar_primo.c`
+    - https://github.com/Anthony-YP/Taller_Funciones-Y-Procedimientos/blob/795a03e3750a3eec1ffc86f89f5f4a53ccff6fa9/Taller_Funciones_Procedimientos/Taller_FP_Ejercicio10.c
 11. **Encontrar el MCD (Máximo Común Divisor)**
     - `ejercicios/mcd.c`
 12. **Sumar los números impares hasta n**
